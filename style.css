@@ -1,0 +1,8 @@
+body{
+font-family:Arial,sans-serif;background:#0f172a;color:white;display:flex;justify-content:center;align-items:center;min-height:100vh;}
+.quiz-container{width:700px;background:#1e293b;padding:30px;border-radius:15px;}
+h1{text-align:center;}
+button{margin-top:15px;padding:10px 20px;border:none;border-radius:8px;cursor:pointer;}
+.option{display:block;background:#334155;margin:10px 0;padding:12px;border-radius:8px;cursor:pointer;}
+.correct{background:green;}
+.wrong{background:red;}
